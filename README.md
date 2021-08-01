@@ -1,7 +1,7 @@
 # Jovac_Project
 
 
-                                                                      Hands on DevOps using AWS: Project
+                                                   Hands on DevOps using AWS: Project
                                                                       
                                                                       
 Requirements:
